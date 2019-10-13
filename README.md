@@ -1,2 +1,1 @@
-# SeleniumCPSAT-Challenge
-Repository to solve Selenium-CPSAT-Challenge
+# Selenium-CPSAT-Challenge
