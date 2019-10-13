@@ -1,7 +1,7 @@
 package seleniumCPSATChallenge;
 
 
-import Locators.Scenario6Locators;
+import locators.Scenario6Locators;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;

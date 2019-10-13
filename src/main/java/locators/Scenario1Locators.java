@@ -1,4 +1,4 @@
-package Locators;
+package locators;
 
 import org.openqa.selenium.By;
 

@@ -1,8 +1,8 @@
 package seleniumCPSATChallenge;
 
-import Locators.Scenario2Locators;
-import Locators.Scenario3Locators;
-import Locators.Scenario4Locators;
+import locators.Scenario2Locators;
+import locators.Scenario3Locators;
+import locators.Scenario4Locators;
 import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.*;
